@@ -3,7 +3,7 @@
   task : 
   cho N số nguyên a[1], a[2], a[3], .. , a[n]
   F(l, r) = gcd(a[l], a[l + 1], .. , a[r-1], a[r])
-  yêu cầu tính tất cả F(l, r) với (1 <= l <= r <= n)
+  yêu cầu tính tổng tất cả F(l, r) với (1 <= l <= r <= n)
   
   https://vn.spoj.com/problems/VOGCDSUM/
 */
