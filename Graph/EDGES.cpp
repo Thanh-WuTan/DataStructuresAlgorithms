@@ -27,32 +27,6 @@
     
   
 */
-
-/*
-    Who the hell you think you are?
-    Comin' in to break my heart
-    Make it like an operation
-    But I ain't one of your patients
-    Tired of this waiting and I don't play that game
-
-    I can't get you off my brain
-    So I'm poppin' pills for the pain
-    And as soon as I go wake up
-    You're caught up in your haze
-    And I can't get out of my bed
-
-    Tears are almost gone but the symptoms in my heart
-    So tell me what's the cure for you (tell me now)
-    'Cause boy you make me so confused
-    (Boy you got me so confused)
-
-    You got me feeling like a psycho, psycho
-    Got me chasin' shots of NyQuil, NyQuil
-    Without you got me dizzy and upset
-    Got me so obsessed with you
-    Look what you started
-    I'm psycho, you're heartless
-*/
 #include <bits/stdc++.h>
 #define EL cout<<'\n'
 #define pli pair<ll,int>
