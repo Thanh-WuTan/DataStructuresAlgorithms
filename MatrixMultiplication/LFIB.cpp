@@ -5,8 +5,8 @@
     F2 = B
     FN = F(N-1) + F(N-2) + 1
     
-    tính (F1) ^ k + (F2) ^ k + (F3) ^ k + .. + (FN) ^ k
-    với k = 1 hoặc 2
+    Determine S = (F1) ^ k + (F2) ^ k + (F3) ^ k + .. + (FN) ^ k
+    for two cases k = 1 and k = 2
 */
 
 // i'm wutan
